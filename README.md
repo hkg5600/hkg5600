@@ -1,6 +1,6 @@
 ### Android Developer
 
-**My Favorites**
+### My Favorites
 
 
 
@@ -8,7 +8,7 @@
 ![Android Badge](https://img.shields.io/badge/-Android-success?logo=android)
 
 
-**I'm intereted in..**
+### I'm intereted in..
 - MVVM
 - Clean Architecture
 - Coroutine
