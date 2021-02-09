@@ -9,7 +9,10 @@
 
 
 **I'm intereted in..**
-
+- MVVM
+- Clean Architecture
+- Coroutine
+- Flutter
 
 
 
