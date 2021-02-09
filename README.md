@@ -1,6 +1,6 @@
 ### Android Developer
 
-**Favorite**
+**My Favorites**
 
 
 
