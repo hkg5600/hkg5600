@@ -1,6 +1,6 @@
 ### Android Developer
 
-Most likes:
+Most likes:<br>
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-blue?logo=kotlin)
 ![Android Badge](https://img.shields.io/badge/-Android-success?logo=android)
 
