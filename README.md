@@ -1,7 +1,8 @@
 ### Android Developer
 
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-blue?logo=kotlin)
-	
+![Android Badge](https://img.shields.io/badge/-Android-success?logo=android)
+
 
 <!--
 **hkg5600/hkg5600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
