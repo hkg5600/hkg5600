@@ -1,6 +1,6 @@
 ### Android Developer
 
-[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-blue?logo=kotlin)]
+![Kotlin Badge](https://img.shields.io/badge/-Kotlin-blue?logo=kotlin)
 	
 
 <!--
